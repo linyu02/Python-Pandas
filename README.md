@@ -1,46 +1,13 @@
-🛠️ Python Pandas Data Science Toolkit
+🛠️ Python Pandas Toolkit
 
-This repository showcases my practical data-science skills using Python and pandas. It includes essential functions and two mini-projects that demonstrate my ability to clean, transform, and explore real-world datasets.
+This repository is a compact showcase of my practical Python pandas skills for data science. It brings together essential data-handling techniques—loading files, filtering, grouping, aggregating, joining, and cleaning strings—into one place for quick reference and learning.
 
-📦 What’s Inside
-📘 Core Pandas Functions
+What’s Inside
+- Core Functions:
+  A collection of commonly used pandas operations for everyday data-wrangling tasks.
 
-A compact reference of commonly used pandas techniques, including:
+- Data Cleaning (Toy Project 1):
+  Examples of fixing messy consumer contact data: handling missing values, standardizing formats, cleaning text fields, and removing duplicates.
 
-Importing and loading data
-
-Filtering, sorting, and selecting
-
-Handling missing values and duplicates
-
-Grouping, aggregations, and joins
-
-String operations and data type management
-
-🧼 Data Cleaning Project
-
-A hands-on example cleaning a consumer contact list:
-
-Standardized text fields and phone numbers
-
-Split and reformatted addresses
-
-Normalized categorical labels
-
-Removed duplicates and invalid entries
-
-📊 Exploratory Data Analysis Project
-
-An EDA of global population data:
-
-Summary statistics and missing-value checks
-
-Correlation heatmaps and trend analysis
-
-Grouped population patterns by continent
-
-Outlier detection and data-type inspection
-
-🎯 Purpose
-
-This project demonstrates my ability to prepare, clean, and analyze data—core skills for data science and analytics workflows.
+- Exploratory Data Analysis (Toy Project 2):
+  Queries and visuals for understanding global population data through descriptive statistics, correlations, trends, and first-look insights.
